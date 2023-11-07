@@ -2,7 +2,7 @@ package com.example.tarea23pm01_gustavobrocato.Config;
 
 public class Transacciones {
     //Nombre de la base de datos
-    public static final String namedb = "PM01Tarea2_4";
+    public static final String namedb = "PM01Tarea2_3";
 
     //Tabla de Contactos
     public static final String tablaImagenes = "imagenes";
